@@ -9,6 +9,7 @@
 [English](./README.en.md) · [繁體中文](./README.zh-TW.md) · [日本語](./README.ja.md)
 
 ![version](https://img.shields.io/badge/version-1.0.0-0d9488?style=flat-square)
+![release](https://img.shields.io/badge/release-v1.0.0-0d9488?style=flat-square)
 ![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![vue](https://img.shields.io/badge/Vue-3.5-42b883?style=flat-square)
 ![vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square)
@@ -53,6 +54,8 @@
 ### 在线体验
 
 构建产物可直接部署到任意静态托管（GitHub Pages / Vercel / Netlify 等）。
+
+📦 **下载发行版**：[GitHub Releases 下载 v1.0.0](https://github.com/gitstq/StudyDeck/releases/tag/v1.0.0)（含 `studydeck-dist.zip` 静态产物）
 
 ### 本地开发
 
